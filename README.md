@@ -1,0 +1,2 @@
+# tsudo
+Rooting
